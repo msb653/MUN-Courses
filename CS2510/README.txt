@@ -1,1 +1,1 @@
-Assignment for CS2510 Programming in C/C++.
+Assignments for CS2510 Programming in C/C++.
