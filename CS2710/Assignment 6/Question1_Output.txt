@@ -1,0 +1,28 @@
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 6>java CustomerTester
+Original list of customers:
+[Name: Steve] [Address: Paradise] [Customer Number: 102328400] [Last Order: 2015]
+
+[Name: Amy] [Address: Mount Pearl] [Customer Number: 823296745] [Last Order: 2016]
+
+[Name: Robert] [Address: Paradise] [Customer Number: 037684629] [Last Order: 2015]
+
+[Name: Eric] [Address: St.John's] [Customer Number: 475694345] [Last Order: 2011]
+
+
+Customer Information for :475694345
+[Name: Eric] [Address: St.John's] [Customer Number: 475694345] [Last Order: 2011]
+
+Sorry 049320019 isn't a valid customer number.
+
+Customers who made a purcahse in 2015:
+[Name: Steve] [Address: Paradise]
+
+[Name: Robert] [Address: Paradise]
+
+List with inactive customers removed:
+[Name: Steve] [Address: Paradise] [Customer Number: 102328400] [Last Order: 2015]
+
+[Name: Amy] [Address: Mount Pearl] [Customer Number: 823296745] [Last Order: 2016]
+
+[Name: Robert] [Address: Paradise] [Customer Number: 037684629] [Last Order: 2015]
+

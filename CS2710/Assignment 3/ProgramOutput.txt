@@ -1,0 +1,35 @@
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 3>java SnackDispenserTester
+
+List of available products:
+
+[Product Name: Gatorade] [Product Price: $4.0] [Amount Left: 10]
+
+[Product Name: Bottled Water] [Product Price: $2.0] [Amount Left: 15]
+
+[Product Name: Chips] [Product Price: $3.0] [Amount Left: 15]
+
+[Product Name: Candy Bar] [Product Price: $2.0] [Amount Left: 20]
+
+Gatorade has been successfully purchased.
+
+Bottled Water has been successfully purchased.
+
+Not enough money inserted, please reclaim your coins.
+
+
+List of available products:
+
+[Product Name: Gatorade] [Product Price: $4.0] [Amount Left: 9]
+
+[Product Name: Bottled Water] [Product Price: $2.0] [Amount Left: 14]
+
+[Product Name: Chips] [Product Price: $3.0] [Amount Left: 15]
+
+[Product Name: Candy Bar] [Product Price: $2.0] [Amount Left: 20]
+
+[Product Name: Monster Energy] [Product Price: $5.0] [Amount Left: 5]
+
+Total coins in machine: $6.0
+
+Total coins in machine: $0.0
+

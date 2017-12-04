@@ -1,0 +1,30 @@
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 4>java Assignment4
+Original String:
+Hello!
+
+Reversed String (Recursive):
+!olleH
+
+Reversed String (Iterative):
+!olleH
+
+55 written as a base 2 number (110111 expected):
+110111
+
+12,974 written as a base 9 number (18715 expected):
+18715
+
+162,341 written as a base 16 number (27A25 expected):
+27A25
+
+Comparing 'piano' to the reverse of 'onaip' (True expected):
+true
+
+Comparing 'a' to the reverse of 'a' (True expected):
+true
+
+Comparing 'Dog' to the reverse of 'taC' (False Expected):
+false
+
+Comparing two null string (True expected):
+true

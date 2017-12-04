@@ -1,0 +1,267 @@
+
+
+Unsorted list of trailer information:
+
+               Name: Steve
+      Phone Number : 7091112222
+      License Plate: ABC123
+     Trailer Length: 15
+    Building Number: 1
+         Start Date: 01/12/16
+          End Date : 03/01/16
+
+               Name: Max
+      Phone Number : 7092223333
+      License Plate: DEF456
+     Trailer Length: 21
+    Building Number: 4
+         Start Date: 01/15/16
+          End Date : 02/26/16
+
+               Name: Lynn
+      Phone Number : 7094445555
+      License Plate: GHI789
+     Trailer Length: 18
+    Building Number: 2
+         Start Date: 01/19/16
+          End Date : 02/08/16
+
+               Name: Jerry
+      Phone Number : 7095556666
+      License Plate: JKL723
+     Trailer Length: 25
+    Building Number: 1
+         Start Date: 01/20/16
+          End Date : 06/20/16
+
+               Name: Eric
+      Phone Number : 7096667777
+      License Plate: JDT385
+     Trailer Length: 31
+    Building Number: 4
+         Start Date: 01/26/16
+          End Date : 03/05/16
+
+               Name: Sarah
+      Phone Number : 7097778888
+      License Plate: SDQ843
+     Trailer Length: 22
+    Building Number: 2
+         Start Date: 02/02/16
+          End Date : 03/27/16
+
+               Name: Jordan
+      Phone Number : 7098889999
+      License Plate: KDY583
+     Trailer Length: 16
+    Building Number: 3
+         Start Date: 02/02/16
+          End Date : 05/12/16
+
+               Name: Julia
+      Phone Number : 7099998888
+      License Plate: MHY836
+     Trailer Length: 19
+    Building Number: 1
+         Start Date: 02/04/16
+          End Date : 02/27/16
+
+               Name: Ron
+      Phone Number : 7098887777
+      License Plate: BFR074
+     Trailer Length: 15
+    Building Number: 2
+         Start Date: 02/07/16
+          End Date : 08/12/16
+
+               Name: Edward
+      Phone Number : 7097776666
+      License Plate: CJD937
+     Trailer Length: 28
+    Building Number: 3
+         Start Date: 02/08/16
+          End Date : 04/23/16
+
+
+
+List sorted alphabetically by owner name:
+
+               Name: Edward
+      Phone Number : 7097776666
+      License Plate: CJD937
+     Trailer Length: 28
+    Building Number: 3
+         Start Date: 02/08/16
+          End Date : 04/23/16
+
+               Name: Eric
+      Phone Number : 7096667777
+      License Plate: JDT385
+     Trailer Length: 31
+    Building Number: 4
+         Start Date: 01/26/16
+          End Date : 03/05/16
+
+               Name: Jerry
+      Phone Number : 7095556666
+      License Plate: JKL723
+     Trailer Length: 25
+    Building Number: 1
+         Start Date: 01/20/16
+          End Date : 06/20/16
+
+               Name: Jordan
+      Phone Number : 7098889999
+      License Plate: KDY583
+     Trailer Length: 16
+    Building Number: 3
+         Start Date: 02/02/16
+          End Date : 05/12/16
+
+               Name: Julia
+      Phone Number : 7099998888
+      License Plate: MHY836
+     Trailer Length: 19
+    Building Number: 1
+         Start Date: 02/04/16
+          End Date : 02/27/16
+
+               Name: Lynn
+      Phone Number : 7094445555
+      License Plate: GHI789
+     Trailer Length: 18
+    Building Number: 2
+         Start Date: 01/19/16
+          End Date : 02/08/16
+
+               Name: Max
+      Phone Number : 7092223333
+      License Plate: DEF456
+     Trailer Length: 21
+    Building Number: 4
+         Start Date: 01/15/16
+          End Date : 02/26/16
+
+               Name: Ron
+      Phone Number : 7098887777
+      License Plate: BFR074
+     Trailer Length: 15
+    Building Number: 2
+         Start Date: 02/07/16
+          End Date : 08/12/16
+
+               Name: Sarah
+      Phone Number : 7097778888
+      License Plate: SDQ843
+     Trailer Length: 22
+    Building Number: 2
+         Start Date: 02/02/16
+          End Date : 03/27/16
+
+               Name: Steve
+      Phone Number : 7091112222
+      License Plate: ABC123
+     Trailer Length: 15
+    Building Number: 1
+         Start Date: 01/12/16
+          End Date : 03/01/16
+
+
+
+Searching for 'Jerry' (Should return result):
+
+               Name: Jerry
+      Phone Number : 7095556666
+      License Plate: JKL723
+     Trailer Length: 25
+    Building Number: 1
+         Start Date: 01/20/16
+          End Date : 06/20/16
+
+
+Searching for 'Jessia' (Shouldn't return a result):
+
+The name Jessica was not found.
+
+
+List sorted numerically by building number:
+
+               Name: Jerry
+      Phone Number : 7095556666
+      License Plate: JKL723
+     Trailer Length: 25
+    Building Number: 1
+         Start Date: 01/20/16
+          End Date : 06/20/16
+
+               Name: Julia
+      Phone Number : 7099998888
+      License Plate: MHY836
+     Trailer Length: 19
+    Building Number: 1
+         Start Date: 02/04/16
+          End Date : 02/27/16
+
+               Name: Steve
+      Phone Number : 7091112222
+      License Plate: ABC123
+     Trailer Length: 15
+    Building Number: 1
+         Start Date: 01/12/16
+          End Date : 03/01/16
+
+               Name: Lynn
+      Phone Number : 7094445555
+      License Plate: GHI789
+     Trailer Length: 18
+    Building Number: 2
+         Start Date: 01/19/16
+          End Date : 02/08/16
+
+               Name: Ron
+      Phone Number : 7098887777
+      License Plate: BFR074
+     Trailer Length: 15
+    Building Number: 2
+         Start Date: 02/07/16
+          End Date : 08/12/16
+
+               Name: Sarah
+      Phone Number : 7097778888
+      License Plate: SDQ843
+     Trailer Length: 22
+    Building Number: 2
+         Start Date: 02/02/16
+          End Date : 03/27/16
+
+               Name: Edward
+      Phone Number : 7097776666
+      License Plate: CJD937
+     Trailer Length: 28
+    Building Number: 3
+         Start Date: 02/08/16
+          End Date : 04/23/16
+
+               Name: Jordan
+      Phone Number : 7098889999
+      License Plate: KDY583
+     Trailer Length: 16
+    Building Number: 3
+         Start Date: 02/02/16
+          End Date : 05/12/16
+
+               Name: Eric
+      Phone Number : 7096667777
+      License Plate: JDT385
+     Trailer Length: 31
+    Building Number: 4
+         Start Date: 01/26/16
+          End Date : 03/05/16
+
+               Name: Max
+      Phone Number : 7092223333
+      License Plate: DEF456
+     Trailer Length: 21
+    Building Number: 4
+         Start Date: 01/15/16
+          End Date : 02/26/16
