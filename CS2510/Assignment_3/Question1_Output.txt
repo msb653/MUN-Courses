@@ -1,0 +1,26 @@
+Magic Goods
+189 Kenmount Avenue
+709 7733754
+
+Online Order Invoice/Receipt
+
+Date:2017/30/1
+
+Sale:
+
+Product No    Quantity    Price
+
+001           1           50
+002           5           625
+              SUBTOTAL    675
+              HST(15%)    101.25
+              Shipping    33.75
+              Total       810
+
+$810 has been charged to your credit card:
+visa: ************7697
+
+Items will ship to:
+Bill Joe
+10 First Drive
+709 1111111
