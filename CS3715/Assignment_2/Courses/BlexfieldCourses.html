@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../CSS/Blexfield.css">
+	<link rel='stylesheet' media='screen and (min-width: 1081px) and (max-width: 1200px)' href='../CSS/BlexfieldTablet.css' />
+	<link rel='stylesheet' media='screen and (min-width: 1px) and (max-width: 1080px)' href='../CSS/BlexfieldMobile.css' />
+	<title>Courses</title>
+</head>
+
+<body>
+
+<div class="header">	
+  		<h1 class="title2">Blexfield Campus</h1>
+  		<a href="../Homepage.html">
+	 		<img src="../Pictures/UniversityLogo.jpg" style="width:15%;">
+  		</a>
+</div>
+
+<h1 class="main"> Course Catalog </h1>
+<table style="width: 100%">
+  <tr>
+    <th>Course Name</th>
+    <th>Course Number</th> 
+    <th>Room</th>
+  </tr>
+	<tr>
+		<td>Introduction to Programming</td>
+		<td>CS 1001</td>
+		<td>EN 2020</td>
+	</tr>
+    <tr>
+		<td>Computing in the 20th Century</td>
+		<td>CS 1400</td>
+		<td>EN 1015</td>
+	</tr>
+    <tr>
+		<td>Object-Oriented Programming I</td>
+		<td>CS 1710</td>
+		<td>EN 2040</td>
+	</tr>
+    <tr>
+		<td>Data Structures and Algorithms</td>
+		<td>CS 2002</td>
+		<td>EN 1010</td>
+	</tr>
+    <tr>
+		<td>Data Analysis with Scripting Language</td>
+		<td>CS 2500</td>
+		<td>EN 1015</td>
+	</tr>
+	<tr>
+		<td>Object-Oriented Programming II</td>
+		<td>CS 2710</td>
+		<td>EN 1030</td>
+	</tr>
+	<tr>
+		<td>Calculus I</td>
+		<td>M 1000</td>
+		<td>ED 3012</td>
+	</tr>
+	<tr>
+		<td>Calculus II</td>
+		<td>M 1001</td>
+		<td>ED 3014</td>
+	</tr>
+	<tr>
+		<td>Algebra and Trigonometry</td>
+		<td>M 1090</td>
+		<td>ED 2005</td>
+	</tr>
+	<tr>
+		<td>Calculus III</td>
+		<td>M 2000</td>
+		<td>ED 1026</td>
+	</tr>
+	<tr>
+		<td>Discrete Mathematics</td>
+		<td>M 2320</td>
+		<td>ED 3002</td>
+	</tr>
+	<tr>
+		<td>Applied Complex Analysis</td>
+		<td>M 3111</td>
+		<td>ED 2019</td>
+	</tr>
+</table>
+
+
+<h1 class="main">Register for a course</h1>
+<div class="select">
+
+	<select id="course">
+		<option value="CS 1001">CS 1001</option>
+		<option value="CS 1400">CS 1400</option>
+		<option value="CS 1710">CS 1710</option>
+		<option value="CS 2002">CS 2002</option>
+		<option value="CS 2500">CS 2500</option>
+		<option value="CS 2710">CS 2710</option>
+		<option value="M 1000">M 1000</option>
+		<option value="M 1001">M 1001</option>
+		<option value="M 1090">M 1090</option>
+		<option value="M 2000">M 2000</option>
+		<option value="M 2320">M 2320</option>
+		<option value="M 3111">M 3111</option>
+	</select>
+	<select id="section">
+		<option value="Section 1">Section 1</option>
+		<option value="Section 2">Section 2</option>
+		<option value="Section 3">Section 3</option>
+	</select>
+	
+	<button id="register" onclick="myFunction()">Register</button>
+
+	<script>
+		function myFunction() {
+			var course = document.getElementById("course");
+			var c = course.options[course.selectedIndex].text;
+			var section = document.getElementById("section");
+			var s = section.options[section.selectedIndex].value;
+			alert("You have successfully registered for "+c+", "+s+".");
+		}
+	</script>
+  
+</div>
+
+<div class="footer">
+			<h3><center>Copyright @ 2017 Federal University of Newfoundland.</center></h3>
+</div>
+
+</body>
+</html>

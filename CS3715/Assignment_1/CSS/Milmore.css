@@ -1,0 +1,36 @@
+body {
+    background-color: #006622;
+}
+.span, .text {
+    vertical-align:middle;
+    display:table-cell;
+}
+
+h1 {
+    color: white;
+	background: grey;
+	font-size: 250%;
+	display:table;
+    width:100%;
+	margin-bottom: 5px;
+	border: 5px solid black;
+}
+h1.bar{
+	color: blue;
+	background: white;
+	font-size: 150%;
+	float: left;
+	width: 455px;
+	}
+h2 {
+	color: black;
+	background: grey;
+	font-size: 175%;
+	width: 250px;
+	border: 5px solid black;
+	}
+blockquote, p{
+	background: white;
+	font-size:150;
+	border: 3px groove black;
+}

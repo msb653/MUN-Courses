@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../CSS/Milmore.css">
+	<link rel='stylesheet' media='screen and (min-width: 1081px) and (max-width: 1200px)' href='../CSS/MilmoreTablet.css' />
+	<link rel='stylesheet' media='screen and (min-width: 1px) and (max-width: 1080px)' href='../CSS/MilmoreMobile.css' />
+	<title>Courses</title>
+</head>
+
+<body>
+
+<div class="header">	
+  		<h1 class="title2">Milmore Campus</h1>
+  		<a href="../Homepage.html">
+	 		<img src="../Pictures/UniversityLogo.jpg" style="width:15%;">
+  		</a>
+</div>
+	
+<h1 class="main"> Course Catalog </h1>
+<table style="width: 100%">
+  <tr>
+    <th>Course Name</th>
+    <th>Course Number</th> 
+    <th>Room</th>
+  </tr>
+	<tr>
+		<td>Geographies of Global Change</td>
+		<td>Geo 1050</td>
+		<td>ED 1020</td>
+	</tr>
+    <tr>
+		<td>Cultural Geography</td>
+		<td>Geo 2001</td>
+		<td>ED 2001</td>
+	</tr>
+    <tr>
+		<td>Physical Geography: The Global Perspective</td>
+		<td>Geo 2102</td>
+		<td>ED 1058</td>
+	</tr>
+    <tr>
+		<td>Climatology</td>
+		<td>Geo 3120</td>
+		<td>ED 2030</td>
+	</tr>
+    <tr>
+		<td>Geomorphology</td>
+		<td>Geo 3150</td>
+		<td>EN 1015</td>
+	</tr>
+	<tr>
+		<td>Field Course</td>
+		<td>Geo 3230</td>
+		<td>Not available</td>
+	</tr>
+	<tr>
+		<td>Introduction to Sociology</td>
+		<td>Soc 1000</td>
+		<td>SN 1058</td>
+	</tr>
+	<tr>
+		<td>Technology and Society</td>
+		<td>Soc 2120</td>
+		<td>SN 2030</td>
+	</tr>
+	<tr>
+		<td>Labrador Society and Culture</td>
+		<td>Soc 2220</td>
+		<td>SN 1026</td>
+	</tr>
+	<tr>
+		<td>Canadian Society and Culture</td>
+		<td>Soc 2240</td>
+		<td>SN 1054</td>
+	</tr>
+	<tr>
+		<td>Introduction to the Methods of Social Research</td>
+		<td>Soc 3040</td>
+		<td>SN 2019</td>
+	</tr>
+	<tr>
+		<td>Classical Social Theory</td>
+		<td>Soc 3150</td>
+		<td>SN 2043</td>
+	</tr>
+</table>
+
+
+<h1 class="main">Register for a course</h1>
+<div class="select">
+
+	<select id="course">
+		<option value="Geo 1050">Geo 1050</option>
+		<option value="Geo 2001">Geo 2001 </option>
+		<option value="Geo 2102">Geo 2102 </option>
+		<option value="Geo 3120">Geo 3120 </option>
+		<option value="Geo 3150">Geo 3150 </option>
+		<option value="Geo 3230">Geo 3230 </option>
+		<option value="Soc 1000">Soc 1000 </option>
+		<option value="Soc 2120">Soc 2120 </option>
+		<option value="Soc 2220">Soc 2220 </option>
+		<option value="Soc 2240">Soc 2240</option>
+		<option value="Soc 3040">Soc 3040</option>
+		<option value="Soc 3150">Soc 3150</option>
+	</select>
+	<select id="section">
+		<option value="Section 1">Section 1</option>
+		<option value="Section 2">Section 2</option>
+		<option value="Section 3">Section 3</option>
+	</select>
+	
+	<button id="register" onclick="myFunction()">Register</button>
+
+	<script>
+		function myFunction() {
+			var course = document.getElementById("course");
+			var c = course.options[course.selectedIndex].text;
+			var section = document.getElementById("section");
+			var s = section.options[section.selectedIndex].value;
+			alert("You have successfully registered for "+c+", "+s+".");
+		}
+	</script>
+</div>
+	<div class="footer">
+			<h3><center>Copyright @ 2017 Federal University of Newfoundland.</center></h3>
+	</div>
+</body>
+</html>
