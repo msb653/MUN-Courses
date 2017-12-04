@@ -1,0 +1,121 @@
+
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 1>java TrailerTester
+               Name: Edward
+      Phone Number : 7097776666
+      License Plate: CJD937
+     Trailer Length: 28
+    Building Number: 3
+         Start Date: 02/08/16
+          End Date : 04/23/16
+     Seasonal Cost: $966.00
+
+               Name: Eric
+      Phone Number : 7096667777
+      License Plate: JDT385
+     Trailer Length: 31
+    Building Number: 4
+         Start Date: 01/26/16
+          End Date : 03/05/16
+     Seasonal Cost: $1069.50
+
+               Name: Jerry
+      Phone Number : 7095556666
+      License Plate: JKL723
+     Trailer Length: 25
+    Building Number: 1
+         Start Date: 01/20/16
+          End Date : 06/20/16
+     Seasonal Cost: $862.50
+
+               Name: Jordan
+      Phone Number : 7098889999
+      License Plate: KDY583
+     Trailer Length: 16
+    Building Number: 3
+         Start Date: 02/02/16
+          End Date : 05/12/16
+     Seasonal Cost: $552.00
+
+               Name: Julia
+      Phone Number : 7099998888
+      License Plate: MHY836
+     Trailer Length: 19
+    Building Number: 1
+         Start Date: 02/04/16
+          End Date : 02/27/16
+     Seasonal Cost: $655.50
+
+               Name: Lynn
+      Phone Number : 7094445555
+      License Plate: GHI789
+     Trailer Length: 18
+    Building Number: 2
+         Start Date: 01/19/16
+          End Date : 02/08/16
+     Seasonal Cost: $621.00
+
+               Name: Max
+      Phone Number : 7092223333
+      License Plate: DEF456
+     Trailer Length: 21
+    Building Number: 4
+         Start Date: 01/15/16
+          End Date : 02/26/16
+     Seasonal Cost: $724.50
+
+               Name: Ron
+      Phone Number : 7098887777
+      License Plate: BFR074
+     Trailer Length: 15
+    Building Number: 2
+         Start Date: 02/07/16
+          End Date : 08/12/16
+     Seasonal Cost: $517.50
+
+               Name: Sarah
+      Phone Number : 7097778888
+      License Plate: SDQ843
+     Trailer Length: 22
+    Building Number: 2
+         Start Date: 02/02/16
+          End Date : 03/27/16
+     Seasonal Cost: $759.00
+
+               Name: Steve
+      Phone Number : 7091112222
+      License Plate: ABC123
+     Trailer Length: 15
+    Building Number: 1
+         Start Date: 01/12/16
+          End Date : 03/01/16
+     Seasonal Cost: $517.50
+
+ Trailers over 30 feet: 1
+Trailers in building 1: 3
+Trailers in building 2: 3
+Trailers in building 3: 2
+Trailers in building 4: 2
+Total income from all trailers: $7245.0
+Enter a date to check for trailer removals (25/03/16 format):
+04/12/16
+
+Trailers being removed on 04/12/16:
+
+Do you want to enter another date? (Y/N):
+Y
+Enter a date to check for trailer removals (25/03/16 format):
+01/16/16
+
+Trailers being removed on 01/16/16:
+
+Do you want to enter another date? (Y/N):
+Y
+Enter a date to check for trailer removals (25/03/16 format):
+03/17/16
+
+Trailers being removed on 03/17/16:
+
+Do you want to enter another date? (Y/N):
+N
+
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 1>
