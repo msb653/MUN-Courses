@@ -1,0 +1,9 @@
+C:\Users\matthew\Downloads\MUN\CS2711\Assignment2>java StackTester
+Top Value: 8
+Stack Size: 5
+Stack Contents:
+8
+7
+6
+5
+4

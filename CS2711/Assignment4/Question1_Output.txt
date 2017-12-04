@@ -1,0 +1,34 @@
+Testing Queue implemented with an unsorted list priority queue.
+Entering 1,4,7 and 2 into the queue in that order:
+Checking queue size (4 expected):
+Queue size: 4
+
+Dequequeing 2 values (1,4 expected):
+1,4
+
+Checking new queue size (2 expected):
+Queue size 2
+
+Dequeueing last 2 values (7,2 expected):
+7,2
+
+Checking if queue is empty (true expected):
+Queue empty: true
+
+
+Testing Queue implemented with a heap priority queue:
+Entering 12,63,57,9 and 24 into the queue in that order:
+Checking queue size (5 expected):
+Queue size: 5
+
+Dequequeing 3 values (12,63,57 expected):
+12,63,57
+
+Checking new queue size (2 expected):
+Queue size 2
+
+Dequeueing last 2 values (9,24 expected):
+9,24
+
+Checking if queue is empty (true expected):
+Queue empty: true

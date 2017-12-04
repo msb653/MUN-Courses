@@ -1,0 +1,58 @@
+How many integers do you want in your binary search tree
+7
+
+
+Enter next value:
+31
+
+
+Enter next value:
+16
+
+
+Enter next value:
+45
+
+
+Enter next value:
+24
+
+
+Enter next value:
+7
+
+
+Enter next value:
+19
+
+
+Enter next value:
+2
+
+
+
+Number of nodes in tree: 7
+
+Height of tree: 3
+
+Inorder traversal:
+2 7 16 19 24 31 45
+
+Postorder traversal:
+2 7 19 24 16 45 31
+
+Enter value to search for in the tree:
+24
+Value was found in the tree.
+
+Sum of integers in tree: 144
+
+Drawing of tree:
+
+|-------45
+31
+|       |-------24
+|       |       |-------19
+|-------16
+|       |-------7
+|       |       |-------2

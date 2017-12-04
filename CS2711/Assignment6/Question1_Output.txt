@@ -1,0 +1,71 @@
+Testing ProbingHash1:
+
+Searching Hashtable for '201437787' (True expected):
+Checking index 0:
+
+Student number found at index 0.
+
+Searching Hashtable for '201558236' (True expected):
+Checking index 5:
+
+Probing index 6:
+Student number found at index 6.
+
+Searching Hashtable for '201699523' (True expected):
+Checking index 1:
+
+Probing index 2:
+Student number found at index 2.
+
+
+
+Testing ProbingHash2:
+
+Searching Hashtable for '201412563' (True expected):
+Checking index 6:
+
+Student number found at index 6.
+
+Searching Hashtable for '201511428' (False expected):
+Checking index 6:
+
+Probing index 7:
+Probing index 8:
+Student Number not found.
+
+Searching Hashtable for '201699523' (True expected):
+Checking index 0:
+
+Student number found at index 0.
+
+
+
+Testing ChainingHash1:
+
+Searching Hashtable for '201437787' (True expected):
+Checking bucket located at index 6.
+Student number found in the bucket.
+
+Searching Hashtable for '201785462' (True expected):
+Checking bucket located at index 3.
+Student number found in the bucket.
+
+Searching Hashtable for '201699453' (False expected):
+Checking bucket located at index 0.
+Student number not found in the bucket.
+
+
+
+Testing ChainingHash2:
+
+Searching Hashtable for '201505883' (False expected):
+Checking bucket located at index 4.
+Student number not found in the bucket.
+
+Searching Hashtable for '201733809' (False expected):
+Checking bucket located at index 2.
+Student number not found in the bucket.
+
+Searching Hashtable for '201505873' (True expected):
+Checking bucket located at index 2.
+Student number found in the bucket.

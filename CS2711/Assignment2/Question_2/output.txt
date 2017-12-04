@@ -1,0 +1,6 @@
+Sentence one. (End note 1)
+Sentence two. (End note 2)
+Sentence three. (End note 3)
+Sentence four. (End note 4)
+Sentence five. (End note 5)
+{first endnote}{second endnote}{third endnote}

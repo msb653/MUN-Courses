@@ -1,0 +1,26 @@
+C:\Users\matthew\Downloads\MUN\CS2711>java EntrantTester
+Enter entrant number to be deleted:
+3
+Enter entrant number:
+1
+Enter entrant time(in minutes):
+10
+Enter entrant number:
+2
+Enter entrant time(in minutes):
+15
+Enter entrant number:
+4
+Enter entrant time(in minutes):
+13
+Enter entrant number:
+5
+Enter entrant time(in minutes):
+8
+[Name: John][Entry Number: 1][Time: 10]
+
+[Name: Sara][Entry Number: 2][Time: 15]
+
+[Name: Steve][Entry Number: 4][Time: 13]
+
+[Name: Anthony][Entry Number: 5][Time: 8]
