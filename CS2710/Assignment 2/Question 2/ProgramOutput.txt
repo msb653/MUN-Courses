@@ -1,0 +1,18 @@
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 2\Question 2>java PolygonTester
+
+Input rectangle width:
+10
+Input rectangle height:
+2
+Input triangle height:
+1
+Input triangle base:
+5
+Input triangle side a:
+2
+Input triangle side b:
+2
+Rectangle area: 20.0
+Rectangle Perimeter: 24.0
+Triangle area: 2.5
+Triangle perimeter: 9.0

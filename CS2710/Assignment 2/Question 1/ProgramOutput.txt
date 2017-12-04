@@ -1,0 +1,56 @@
+C:\Users\matthew\Downloads\MUN\CS2710\Assignment 2\Question 1>java CampTester
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0]
+
+[Park Name: Gros Morne National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $45.0]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Location: Location A][Mode of Travel: hike]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Location: Location B][Mode of Travel: canoe]
+
+[Park Name: Gros Morne National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $45.0][Location: Location C][Mode of Travel: hike]
+
+[Park Name: Gros Morne National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $45.0][Location: Location D][Mode of Travel: boat]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Campground Name: Newman Sound][Site Number: 1][Has Firepit (T/
+F): true]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Campground Name: Malady Head][Site Number: 2][Has Firepit (T/F
+): false]
+
+[Park Name: Gros Morne National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $45.0][Campground Name: Norris Point][Site Number: 1][Has Firepit (T/
+F): true]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Campground Name: Newman Sound][Site Number: 1][Has Firepit (T/
+F): true][Amp Service: 30][Water Service: true]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Campground Name: Newman Sound][Site Number: 1][Has Firepit (T/
+F): true][Amp Service: 15][Water Service: false]
+
+[Park Name: Terra Nova National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $30.0][Campground Name: Malady Head][Site Number: 2][Has Firepit (T/F
+): false][Amp Service: 50][Water Service: false]
+
+[Park Name: Gros Morne National Park][Province: Newfoundland and Labrador][Cost
+Per Night: $45.0][Campground Name: Norris Point][Site Number: 1][Has Firepit (T/
+F): true][Generator Used (T/F): true]
+
+Number of front country sites in Terra Nova National Park: 2
+
+Number of serviced sites (with 30 amp service) in Newman Sound: 1
+
+List of all back country site locations in Gros Morne:
+-Location C
+-Location D
+
+List of all unserviced sites in Malady Head (by site number):
